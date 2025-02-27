@@ -1,10 +1,10 @@
 # Hi there, I'm Mario Damas! 👋
 
-I'm a passionate third-year Computer Engineering student specializing in Software Engineering. Currently, I'm on an exchange program in the United Kingdom, broadening my social and cultural skills while continuously improving my technical abilities.
+I'm a passionate third-year Computer Science student specializing in Software Engineering. Currently, I'm on an exchange program in the United Kingdom, broadening my social and cultural skills while continuously improving my technical abilities.
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Engineering at Universidad de Castilla-La Mancha (Spain) and University of Birmingham (UK).
+- 🎓 Studying Computer Science at Universidad de Castilla-La Mancha (Spain) and University of Birmingham (UK).
 - 🔭 I’m currently working on improving my backend development skills.
 - 🌱 I’m learning advanced JavaScript, RESTful API development, and database management.
 - 👯 I’m looking to collaborate on open-source projects related to backend development.

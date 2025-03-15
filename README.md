@@ -9,7 +9,7 @@ I'm a passionate third-year Computer Science student specializing in Software En
 - 🌱 I’m learning advanced JavaScript, RESTful API development, and database management.
 - 👯 I’m looking to collaborate on open-source projects related to backend development.
 - 💬 Ask me about software development, databases, and version control.
-- 📫 How to reach me: [mariodamassanchez@gmail.com](mailto:mariodamassanchez@gmail.com)
+- 📫 How to reach me: [mariodamassanchez@gmail.com](mailto:mariodschez@gmail.com)
 - ⚡ Fun fact: I adapt quickly to new challenges and love learning new technologies.
 
 ## 🛠️ Technologies & Tools
